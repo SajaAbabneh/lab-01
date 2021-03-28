@@ -1,0 +1,9 @@
+.a ,.b ,.c,.d,.e,.f,.g,.h,.i{
+    background-color: rgb(167, 164, 164);
+}
+
+@media (min-width: 480px) and (max-width: 767px){
+    .a ,.b ,.c,.d,.e,.f,.g,.h,.i{
+        background-color: rgb(246, 170, 170);
+    }
+}
